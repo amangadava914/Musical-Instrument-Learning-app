@@ -1,0 +1,124 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of playing guitar with our comprenshive beginner's course.",
+            "price": 99.99,
+            "instructor": "Aman Gadava",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"  
+        },
+        {
+            "id": 2,
+            "title": "Piano Fundamentals",
+            "slug": "piano-fundamentals",
+            "description": "Learn the basics of playing piano with our comprenshive beginner's course.",
+            "price": 99.99,
+            "instructor": "Aman Gadava",
+            "isFeatured": true,
+            "image": "/courses/piano.jpg"  
+        },
+        {
+            "id": 3,
+            "title": "Tabla Fundamentals",
+            "slug": "tabla-fundamentals",
+            "description": "Learn the basics of playing tabla with our comprenshive beginner's course.",
+            "price": 99.99,
+            "instructor": "Aman Gadava",
+            "isFeatured": false,
+            "image": "/courses/tabla.jpg"  
+        },
+        {
+            "id": 4,
+            "title": "Violin Fundamentals",
+            "slug": "violin-fundamentals",
+            "description": "Learn the basics of playing Violin with our comprenshive beginner's course.",
+            "price": 99.99,
+            "instructor": "Aman Gadava",
+            "isFeatured": true,
+            "image": "/courses/violin.jpg"  
+        },
+        {
+            "id": 5,
+            "title": "Trumpet Fundamentals",
+            "slug": "trumpet-fundamentals",
+            "description": "Learn the basics of playing Trumpet with our comprenshive beginner's course.",
+            "price": 99.99,
+            "instructor": "Aman Gadava",
+            "isFeatured": false,
+            "image": "/courses/trumpet.jpg"  
+        },
+        {
+            "id": 6,
+            "title": "Banjo Fundamentals",
+            "slug": "banjo-fundamentals",
+            "description": "Learn the basics of playing banjo with our comprenshive beginner's course.",
+            "price": 99.99,
+            "instructor": "Aman Gadava",
+            "isFeatured": true,
+            "image": "/courses/banjo.jpg"  
+        },
+        {
+            "id": 7,
+            "title": "Drum kit Fundamentals",
+            "slug": "drum kit-fundamentals",
+            "description": "Learn the basics of playing Drum kit with our comprenshive beginner's course.",
+            "price": 99.99,
+            "instructor": "Aman Gadava",
+            "isFeatured": true,
+            "image": "/courses/drumkit.jpg"  
+        },
+        {
+            "id": 8,
+            "title": "Shehnai Fundamentals",
+            "slug": "shehnai-fundamentals",
+            "description": "Learn the basics of playing Shehnai with our comprenshive beginner's course.",
+            "price": 99.99,
+            "instructor": "Aman Gadava",
+            "isFeatured": false,
+            "image": "/courses/shehnai.jpeg"  
+        },
+        {
+            "id": 9,
+            "title": "Sitar Fundamentals",
+            "slug": "sitar-fundamentals",
+            "description": "Learn the basics of playing sitar with our comprenshive beginner's course.",
+            "price": 99.99,
+            "instructor": "Aman Gadava",
+            "isFeatured": false,
+            "image": "/courses/sitar.jpg"  
+        },
+        {
+            "id": 10,
+            "title": "Saxophone Fundamentals",
+            "slug": "saxophone-fundamentals",
+            "description": "Learn the basics of playing saxophone with our comprenshive beginner's course.",
+            "price": 99.99,
+            "instructor": "Aman Gadava",
+            "isFeatured": false,
+            "image": "/courses/saxophone.jpeg"  
+        },
+        {
+            "id": 11,
+            "title": "Flute Fundamentals",
+            "slug": "flute-fundamentals",
+            "description": "Learn the basics of playing flute with our comprenshive beginner's course.",
+            "price": 99.99,
+            "instructor": "Aman Gadava",
+            "isFeatured": true,
+            "image": "/courses/flute.jpg"  
+        },
+        {
+            "id": 12,
+            "title": "Harmonica Fundamentals",
+            "slug": "harmonica-fundamentals",
+            "description": "Learn the basics of playing  harmonica with our comprenshive beginner's course.",
+            "price": 99.99,
+            "instructor": "Aman Gadava",
+            "isFeatured": false,
+            "image": "/courses/harmonica.jpg"  
+        }
+    ]
+}
